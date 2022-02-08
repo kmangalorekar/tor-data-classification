@@ -15,3 +15,8 @@ Run the ipynb file in any python notebook environment with python3.7+
 The dataset could used can be found at <a href='https://www.unb.ca/cic/datasets/tor.html'>UNB-CIC Tor-NonTor</a>
 Used tensorflow for NN implementation and scikitlearn for logistical regression
 
+
+## References
+1. <a href='https://github.com/rambasnet/DeepLearning-TorTraffic'>https://github.com/rambasnet/DeepLearning-TorTraffic</a>
+2. <a href='https://github.com/satnamdatageek/ToR-NonTor_Detection/blob/master/tor_detection.ipynb'> https://github.com/satnamdatageek/ToR-NonTor_Detection/blob/master/tor_detection.ipynb </a>
+
