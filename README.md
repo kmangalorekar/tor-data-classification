@@ -18,5 +18,5 @@ Used tensorflow for NN implementation and scikitlearn for logistical regression
 
 ## References
 1. <a href='https://github.com/rambasnet/DeepLearning-TorTraffic'>https://github.com/rambasnet/DeepLearning-TorTraffic</a>
-2. <a href='https://github.com/satnamdatageek/ToR-NonTor_Detection/blob/master/tor_detection.ipynb'> https://github.com/satnamdatageek/ToR-NonTor_Detection/blob/master/tor_detection.ipynb </a>
+2. <a href='https://github.com/satnamdatageek/ToR-NonTor_Detection'> https://github.com/satnamdatageek/ToR-NonTor_Detection </a>
 
